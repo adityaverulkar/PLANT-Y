@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌿 **PLANT-Y**
 
 ## 📌 **Overview**
